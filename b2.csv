@@ -1,0 +1,10 @@
+"Precio
+<dbl>","Categoria
+<chr>","Estado
+<chr>","Cantidad
+<dbl>"
+99.99,Electrónica,Nuevo,50
+49.99,Ropa,Usado,20
+79.99,Alimentación,Nuevo,30
+129.99,Electrónica,Usado,10
+59.99,Ropa,Nuevo,40
